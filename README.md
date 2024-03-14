@@ -1,4 +1,4 @@
-# Sevanial's Portfolio and Profile
+# Sevanial's Profile
 
 ## About Me
 

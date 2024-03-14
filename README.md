@@ -20,7 +20,7 @@ Main Website :  [sevanial.net](https://sevanial.net)
 - JavaScript
 - Python
 
-## Looking to Collaborate On
+## Looking to Collaborate
 
 I'm actively seeking opportunities to collaborate on projects involving the following technologies until I gain more 
 experience:

@@ -10,21 +10,6 @@ This site is where I share what I build, what I figure out, and what I find inte
 
 ---
 
-## 📂 What You'll Find Here
-
-- 📌 **[Code Snippets](./snippets)**  
-  Small tricks, functions, aliases, and bash/terminal magic
-
-- 📚 **[Docs & Guides](./docs)**  
-  Step-by-step notes on projects and setups
-
-- 🔧 **[Projects](./projects)**  
-  Scripts, launchers, experiments, and small tools I’ve built
-
-- 🧪 **[Experiments](./experiments)**  
-  Personal testing grounds for tech, AI tools, and other random ideas
-
----
 
 ## 🌐 Find Me Elsewhere
 

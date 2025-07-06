@@ -22,8 +22,9 @@ A comprehensive bash script for managing Minecraft Quilt modded servers with aut
 
 1. **Download the script**:
    ```bash
-   curl -O https://your-server.com/mcserver.sh
+   curl -O https://raw.githubusercontent.com/sevanial/sevanial/main/mcserver.sh
    chmod +x mcserver.sh
+
    ```
 
 2. **Run initial setup**:

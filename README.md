@@ -26,8 +26,6 @@ This site is where I share what I build, what I figure out, and what I find inte
 
 # 🧰 What I Use
 
-Here’s a breakdown of the systems I manage, tools I rely on, and languages I code in.
-
 ---
 
 ## 🧠 Coding Languages

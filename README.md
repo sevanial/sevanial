@@ -1,9 +1,4 @@
 ---
-title: Sevanial
-description: Linux, scripting, gaming, and personal experiments
----
-
-<img src="/assets/img/sevanial-logo.png" alt="Sevanial Logo" width="140" style="margin-bottom: 1em;" />
 
 # Hey, I’m Sevanial 👋
 

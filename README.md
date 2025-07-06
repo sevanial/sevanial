@@ -1,5 +1,3 @@
----
----
 # Hey, I’m Sevanial 👋
 
 I’m a Linux and computer enthusiast, gamer, and tech hobbyist.  

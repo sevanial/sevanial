@@ -1,6 +1,6 @@
 # Minecraft Quilt Server Manager
 
-A comprehensive bash script for managing Minecraft Quilt modded servers with automatic dependency installation, interactive configuration, and session management.
+A comprehensive bash script for managing Minecraft Quilt servers with automatic dependency installation, interactive configuration, and session management.
 
 ## Features
 

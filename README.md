@@ -35,20 +35,6 @@ I mainly write in:
 
 ---
 
-## 💻 Systems I Manage
-
-I actively maintain a small network of devices:
-
-- 🖥️ 2 Fedora Linux servers
-- 📦 1 QNAP NAS (RAID 1 with 2×4TB)
-- 🍓 2 Raspberry Pi units (used for CCTV + network services)
-- 🐧 1 Linux desktop PC (Arch + Plasma)
-- 💻 1 Linux laptop
-- 🪟 1 Windows 10 desktop PC
-- 💼 1 Windows 10 laptop
-
----
-
 ## 🔧 Server & Network Tools
 
 - **SSH**
@@ -63,8 +49,9 @@ I actively maintain a small network of devices:
 ## 🧑‍💻 Terminal & Shell Setup
 
 - **Terminal**: [Kitty](https://sw.kovidgoyal.net/kitty/) (with custom config)
-- **Shell**: Bash (5.2.37)
-- **Package Manager**: `yay` (AUR helper)  
+- **Shell**: Bash
+- **Package Manager**: `yay`
+  
 ---
 
 ## 🎮 Gaming

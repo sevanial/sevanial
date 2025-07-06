@@ -24,10 +24,6 @@ This site is where I share what I build, what I figure out, and what I find inte
 
 ---
 
-# 🧰 What I Use
-
----
-
 ## 🧠 Coding Languages
 
 I mainly write in:
